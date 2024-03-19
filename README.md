@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shop_app
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# clthes-shop
+>>>>>>> ad8a885da9a6c712da1dff4c15c22647960d2f95
