@@ -1,5 +1,9 @@
-<<<<<<< HEAD
-# shop_app
+# This is like online clothes store
+
+## Create Database and setup your database password
+```
+clothes_shop_data
+```
 
 ## Project setup
 ```
