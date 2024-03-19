@@ -65,4 +65,5 @@ npm run lint
 **Frontend**
   1. Install [Node.js and npm](https://www.npmjs.com/get-npm)
   2. The frontend client is running on [localhost:8080]().
-# clothes-shop
+# How to reach me
+- Kaung Lynn Shann [Kaungshann.forjob@gmail.com]
